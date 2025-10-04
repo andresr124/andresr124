@@ -3,7 +3,6 @@ My username is andresr124. Just call me LinuxAddict124.
 - I'm currently working on PyFetch
 - I'm currently learning Python
 - Ask me about ideas for PyFetch
-- Discord: linuxaddict124
 - Pronouns: He/Him
 - Fun fact: PyFetch went from 30 lines of code to over 100 lines of code in just 2 days.
 
