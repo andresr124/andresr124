@@ -1,5 +1,5 @@
 ## Hi there 👋
-My username is andresr124. Just call me LinuxAddict124.
+My username is linuxaddict124. Just call me LinuxAddict124.
 - I'm currently working on PyFetch
 - I'm currently learning Python
 - Ask me about ideas for PyFetch
