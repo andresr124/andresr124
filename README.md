@@ -1,22 +1,16 @@
-## Hi there 👋
-My username is linuxaddict124. Just call me LinuxAddict124.
-- I'm currently working on PyFetch
-- I'm currently learning Python
-- Ask me about ideas for PyFetch
-- Pronouns: He/Him
-- Fun fact: PyFetch went from 30 lines of code to over 100 lines of code in just 2 days.
-
-<!--
-**andresr124/andresr124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+         _nnnn_        
+        dGGGGMMb       
+       @p~qp~~qMb      
+       M|@||@) M|      
+       @,----.JM|      
+      JS^\__/  qKL     
+     dZP        qKRb   
+    dZP          qKKb  
+   fZP            SMMb 
+   HZM            MMMM 
+   FqM            MMMM 
+ __| ".        |\dS"qML
+ |    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMP|   .'  
+     `-'       `--'
